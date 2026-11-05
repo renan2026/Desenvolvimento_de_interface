@@ -1,0 +1,71 @@
+console.log ("olá Turma")
+VM1438:1 olá Turma
+undefined
+window.alert ("Cuidado com a dispersão")
+undefined
+console.log(10+5);
+VM1623:1 15
+undefined
+console.log("Meu nome é Renan");
+VM1721:1 Meu nome é Renan
+undefined
+const nome = "Renan";
+undefined
+const idade = 25;
+undefined
+nome
+'Renan'
+idade
+25
+let pontos = 10;
+undefined
+pontos
+10
+console.log(typeoff"ADS");
+VM2042:1 Uncaught SyntaxError: missing ) after argument list (at VM2042:1:13)
+console.log(typeoff "ADS");
+VM2137:1 Uncaught SyntaxError: missing ) after argument list (at VM2137:1:13)
+console.log (typeoff "ADS");
+VM2252:1 Uncaught SyntaxError: missing ) after argument list (at VM2252:1:14)
+console.log(typeof "ADS");
+VM2309:1 string
+undefined
+console.log(typeof 50,57);
+VM2399:1 number 57
+undefined
+var1 = 15;
+15
+var2 = 20;
+20
+soma=var1+var2
+35
+var1 = 20;
+20
+var2 = 4;
+4
+soma=var1+var2, subtracao=var1-var2, mult=var1*var2, div=var1/var2
+5
+soma=var1+var2
+24
+subtracao=var1-var2
+16
+mult=var1*var2
+80
+div=var1/var2
+5
+subtracao
+16
+n1 = 7;
+7
+n2 = 8;
+8
+n3= 9;
+9
+media= n1, n2, n3/2;
+4.5
+media= n1,n2,n3/3;
+3
+n1
+7
+media = (n1+n2+n3)/3;
+8
